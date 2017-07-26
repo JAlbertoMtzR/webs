@@ -1,0 +1,190 @@
+body{
+  background-color: #fbfafa !important;
+}
+#home {
+    background-image: url("../img/image.jpg");
+    width: 100%;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover; 
+    -moz-background-size: cover; 
+    -o-background-size: cover; 
+    background-size: cover;
+    height: 700px;
+}
+#nosotros {
+    background-image: url("../img/image.jpg");
+    width: 100%;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover; 
+    -moz-background-size: cover; 
+    -o-background-size: cover; 
+    background-size: cover;
+    height: 300px;
+}
+#cuadro{
+    padding-top: 15px;
+
+}
+#producto1{
+    height: 260px;
+    border-top: 3px solid #E18C24 !important;
+    outline: 1px solid #848484 !important;
+}
+#producto2{
+    height: 260px;
+    border-top: 3px solid #232323 !important;
+    outline: 1px solid #848484 !important;
+}
+#producto3{
+    height: 260px;
+    border-top: 3px solid #B0172E !important;
+    outline: 1px solid #848484 !important;
+}
+#producto4{
+    height: 260px;
+    border-top: 3px solid #080080 !important;
+    outline: 1px solid #848484 !important;
+}
+#formulario{
+    margin-top: -147px;
+}
+#form{
+    border-style: solid;
+    border-width: 1px;
+    border-color: #848484;
+}
+#row{
+    margin-right: 25px !important;
+    margin-left: 25px !important;
+}
+#imginsta{
+
+    height: 278px !important;
+    width: 363px !important;
+}
+
+
+.btnf {
+  -webkit-border-radius: 15;
+  -moz-border-radius: 15;
+  border-radius: 15px;
+  color: #ffffff;
+  font-size: 15px;
+  background: #080080;
+  padding: 10px 50px 10px 50px;
+  text-decoration: none;
+}
+.paddcero{
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+}
+
+.color-form{
+      background-image: linear-gradient(#080080,#080080),linear-gradient(#D2D2D2,#D2D2D2) !important;
+}
+
+/*********Contact form**************/
+.contact-form{
+  padding: 25px;
+  margin-top: 7%;
+  margin-bottom: 7%;
+}
+.contact{
+  margin-top: 10%;
+  margin-bottom: 7%;
+  padding-left: 40px !important;
+}
+.text-area{
+  margin-top: 15px;
+}
+.form-inline .form-control{
+    width: 245px !important; /*264px para lg */
+    border-radius: 0 !important;
+}
+.text-area .form-control{
+  border-radius: 0 !important;
+}
+.form-inline .email{
+  margin-left: 25px;
+}
+.padding{
+  margin-left: 18px;
+}
+.padding-2{
+  margin-left: 29px;
+}
+.btn-contact{
+  font-size: 18px;
+  margin-top: 25px;
+  padding-left: 50px !important;
+  padding-right: 50px !important;
+  background-color: #172983;
+  color: #FFF;
+}
+.btn{
+  border-radius: 0 !important;
+}
+
+/********Productos***********/
+.nav-product{
+  font-size: 12px;
+  margin-top: 25px;
+  margin-bottom: 25px !important;
+  background-color: #FFF;
+}
+.nav-product>li>a {
+    border-radius: 0 !important;
+    border-top: #fbfafa!important;
+}
+.nav-stacked>li {
+    border-top: 1px solid #fbfafa!important;
+}
+.icon{
+  margin-left: 58px; /*58px lg*/
+}
+.icon-2{
+  margin-left: 75px; /*75px lg*/
+}
+.icon-3{
+  margin-left: 25px; /*25px lg*/
+}
+.contact-product{
+  background-color: #FFF;
+  font-size: 20px;
+  padding: 20px;
+  margin-bottom: 25px;
+}
+
+
+/***********gallery**********/
+div#quad { 
+  background-color: #000; 
+  font-size: 0; width: 100%; 
+  margin: 0 auto;
+}
+div#quad figure { 
+  margin: 0; width: 25%; 
+  height: 308px; transition: 1s; 
+  display: inline-block; 
+  position: relative; overflow: hidden; 
+}
+div#quad figure:hover { cursor: pointer; z-index: 4; }
+div#quad figure img { width: 100%; height: 100%; }
+div#quad figure:nth-child(1) { transform-origin: top left; }
+div#quad figure:nth-child(2) { transform-origin: top right; }
+div#quad figure:nth-child(3) { transform-origin: bottom left; }
+div#quad figure:nth-child(4) { transform-origin: bottom right; }
+div#quad figure figcaption { 
+  margin: 0; opacity: 0; 
+  background: rgba(0,0,0,0.3); 
+  color: #fff; padding: .3rem; 
+  font-size: 1.2rem; 
+  position: absolute; 
+  bottom: 0; width: 100%;
+    transition: 1s 1s opacity; 
+}
+.expanded { transform: scale(2); z-index: 5;  }
+div#quad figure.expanded figcaption { opacity: 1; }
+div.full figure:not(.expanded) { pointer-events: none; }
+/***********gallery**********/
+
