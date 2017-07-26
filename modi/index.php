@@ -11,32 +11,32 @@
     <link rel="stylesheet" type="text/css" href="fonts/css/font-awesome.min.css">
 	</head>
 <body class=""> 
-<div class="col-lg-12" style="padding: 0;">
+<div class="col-lg-12 col-sm-12 col-md-12 col-xs-12" style="padding: 0;">
     
-    <div class="col-lg-12" id="redes" style="background-color:#E8E8E8;padding-top:10px;padding-bottom: 10px;position: fixed;z-index: 2;">
+    <div class="col-lg-12 col-sm-12 col-md-12 col-xs-12" id="redes" style="background-color:#E8E8E8;padding-top:10px;padding-bottom: 10px;position: fixed;z-index: 2;">
         <div class="container" style="color: #848484">
-            <div class="col-lg-4"><div class="col-lg-2"><i class="fa fa-phone fa-2x" aria-hidden="true" style="color: #080080;"></i></div><div class="col-lg-10">228-254-57-59</div></div>
-            <div class="col-lg-4"><div class="col-lg-2"><i class="fa fa-envelope fa-2x" aria-hidden="true" style="color: #080080"></i></div><div class="col-lg-10">info@modienvases.mx</div></div>
-            <div class="col-lg-4">228-254-57-59</div>
+            <div class="col-lg-4 col-sm-4 col-md-4 col-xs-4"><div class="col-lg-2 col-sm-2 col-md-2 col-xs-2"><i class="fa fa-phone fa-2x" aria-hidden="true" style="color: #080080;"></i></div><div class="col-lg-10">228-254-57-59</div></div>
+            <div class="col-lg-4 col-sm-4 col-md-4 col-xs-4"><div class="col-lg-2 col-sm-2 col-md-2 col-xs-2"><i class="fa fa-envelope fa-2x" aria-hidden="true" style="color: #080080"></i></div><div class="col-lg-10 col-sm-10 col-md-10 col-xs-10">info@modienvases.mx</div></div>
+            <div class="col-lg-4 col-sm-4 col-md-4 col-xs-">228-254-57-59</div>
         </div>
     </div><!--redes-->
 
-    <div class="col-lg-12" id="home">
+    <div class="col-lg-12 col-sm-12 col-md-12 col-xs-12" id="home">
         <div class="container" style="padding-top: 40px;" id="menu" style="position: fixed;">
-            <div class="col-lg-4">
+            <div class="col-lg-4 col-sm-4 col-md-4 col-xs-4">
                 <img src="img/correo/logo.png" class="img-responsive">
             </div>
-            <div class="col-lg-2" style="font-size: 20px;padding-top: 30px;">
+            <div class="col-lg-2 col-sm-2 col-md-2 col-xs-2" style="font-size: 20px;padding-top: 30px;">
                 <a href="" style="text-decoration: none;color:white">HOME</a>
             </div>
-            <div class="col-lg-2" style="font-size: 20px;padding-top: 30px;">
+            <div class="col-lg-2 col-sm-2 col-md-2 col-xs-2" style="font-size: 20px;padding-top: 30px;">
                <a href="nosotros.php" style="text-decoration: none;color:white">NOSOTROS</a>
             </div>
-            <div class="col-lg-2" style="font-size: 20px;padding-top: 30px;">
+            <div class="col-lg-2 col-sm-2 col-md-2 col-xs-2" style="font-size: 20px;padding-top: 30px;">
               <a href="" style="text-decoration: none;color:white">PRODUCTOS</a>
             </div>
-            <div class="col-lg-2" style="font-size: 20px;padding-top: 30px;">
-                <a href="contacto.php" style="text-decoration: none;color:white">CONTACTO</a>
+            <div class="col-lg-2 col-sm-2 col-md-2 col-xs-2" style="font-size: 20px;padding-top: 30px;">
+                <a href="" style="text-decoration: none;color:white">CONTACTO</a>
             </div>          
         </div><!--menu-->
         <div class="container" id="eslogan" style="text-align: center;color: white; padding-top: 200px;">
@@ -44,7 +44,7 @@
         </div>
     </div><!--home-->
 
-    <div class="col-lg-12" id="productos" style="padding-top: 50px;padding-bottom: 50px;background-color: #fff; ">
+    <div class="col-lg-12 col-sm-12 col-md-12 col-xs-1" id="productos" style="padding-top: 50px;padding-bottom: 50px;background-color: #fff; ">
         <div class="container">
             <div class="col-lg-8" id="producto">
                 <div class="col-lg-12" id="tituproduc" style="color: #801900;text-align: center;">
@@ -131,7 +131,7 @@
     </div><!--productos-->
 
 
-    <div class="col-lg-12" id="homenosotros" style="background-color: #080080;padding-right: 0px !important;padding-bottom: 0;">
+    <div class="col-lg-12 col-sm-12 col-md-12 col-xs-1" id="homenosotros" style="background-color: #080080;padding-right: 0px !important;padding-bottom: 0;">
         <div class="container" style="padding-right: 0px !important;">
             <div class="col-lg-6" id="descnosotros" style="color: #fff;">
                 <div class="col-lg-12" id="titunosotros" style="padding-top: 25px;">
@@ -168,7 +168,7 @@
     </div><!--nosotros-->
 
 
-    <div class="col-lg-12 paddcero" id="instalaciones">
+    <div class="col-lg-12 col-sm-12 col-md-12 col-xs-1 paddcero" id="instalaciones">
         <div class="col-lg-12" style="padding-top: 20px;padding-right: 0;padding-left: 0;">
             <div class="col-lg-12" id="tituinsta" style="text-align: center;padding-bottom: 20px;">
                 <h2 style="font-weight: bold;color: #525252;">NUESTRAS INSTALACIONES</h2>
@@ -213,7 +213,7 @@
     </div><!--instalaciones-->
 
 
-    <div class="col-lg-12" id="footer" style="background-color: #080080">
+    <div class="col-lg-12 col-sm-12 col-md-12 col-xs-1" id="footer" style="background-color: #080080">
         <div class="container" style="padding-top: 50px;padding-bottom: 50px;color: #fff;text-align: left;font-weight: bold;">
             <div class="col-lg-3" id="foot1">
                 <div class="col-lg-12">
@@ -277,7 +277,7 @@
         </div><!--container-->
     </div><!--footer-->
 
-    <div class="col-lg-12" style="background-color: #741919;text-align: center;color: #FFF;">
+    <div class="col-lg-12 col-sm-12 col-md-12 col-xs-1" style="background-color: #741919;text-align: center;color: #FFF;">
             <h4>TODOS LOS DERECHOS RESERVADOS POR MODI ENVASES / <a href="" style="text-decoration: none;color: #fff">AVISO DE PRIVACIDAD</a></h4>
         </div>
 
