@@ -36,7 +36,7 @@
               <a href="" style="text-decoration: none;color:white">PRODUCTOS</a>
             </div>
             <div class="col-lg-2" style="font-size: 20px;padding-top: 30px;">
-                <a href="" style="text-decoration: none;color:white">CONTACTO</a>
+                <a href="contacto.php" style="text-decoration: none;color:white">CONTACTO</a>
             </div>          
         </div><!--menu-->
         <div class="container" id="eslogan" style="text-align: center;color: white; padding-top: 200px;">
