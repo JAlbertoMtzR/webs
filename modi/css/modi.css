@@ -6,6 +6,9 @@ body{
   background-color: #fbfafa !important;
   font-family: fuente !important;
 }
+.fuente{
+  font-family: fuente !important;
+}
 .home {
     /* The image used */
     background-image: url("../img/image.jpg");
@@ -39,6 +42,19 @@ body{
     background-size: cover;
     height: 300px;
 }
+#productos{
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #fff; 
+}
+#tituproduc{
+  color: #801900;
+  text-align: center;
+}
+#textproduc{
+  text-align: center;
+  padding-top: 30px;
+}
 #cuadro{
     padding-top: 15px;
 
@@ -64,7 +80,7 @@ body{
     outline: 1px solid #848484 !important;
 }
 #formulario{
-    margin-top: -147px;
+    margin-top: -164px;
 }
 #form{
     border-style: solid;
@@ -111,6 +127,12 @@ body{
 
 .color-form{
       background-image: linear-gradient(#080080,#080080),linear-gradient(#D2D2D2,#D2D2D2) !important;
+}
+.img-produc{
+  width: 80% !important;
+}
+.img-produc:hover{
+  width: 85% !important;
 }
 
 /*********Contact form**************/
