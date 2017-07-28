@@ -179,10 +179,14 @@ body{
 
 /********Productos***********/
 .nav-product{
-  font-size: 12px;
+  font-size: 18px;
   margin-top: 25px;
   margin-bottom: 25px !important;
   background-color: #FFF;
+}
+.nav-product>li.title>a{
+  font-size: 20px;
+  color: #000;
 }
 .nav-product>li>a {
     border-radius: 0 !important;
@@ -191,14 +195,26 @@ body{
 .nav-stacked>li {
     border-top: 1px solid #fbfafa!important;
 }
+.nav-product>li.orange>a{
+  color: #f97c02;
+}
+.nav-product>li.gray>a{
+  color: #616262;
+}
+.nav-product>li.blue>a{
+  color: #0f1b5f;
+}
+.nav-product>li.red>a{
+  color: #c50e0e;
+}
 .icon{
-  margin-left: 58px; /*58px lg*/
+  margin-left: 44px; /*58px lg*/
 }
 .icon-2{
-  margin-left: 75px; /*75px lg*/
+  margin-left: 55px; /*75px lg*/
 }
 .icon-3{
-  margin-left: 25px; /*25px lg*/
+  margin-left: 13px; /*25px lg*/
 }
 .contact-product{
   background-color: #FFF;
@@ -206,7 +222,21 @@ body{
   padding: 20px;
   margin-bottom: 25px;
 }
-
+.square{
+  margin-top: 25px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  padding: 15px;
+  background-color: #FFF;
+}
+.title-img{
+  color: #f97c02;
+  text-align: center;
+  font-size: 19px;
+}
+.text-product{
+  font-family: all;
+}
 
 /***********gallery**********/
 div#quad { 

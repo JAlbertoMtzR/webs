@@ -44,21 +44,62 @@
     </div><!--nosotros-->
 
     <!-- Contacto -->
-    <div class="col-lg-12">
+    <div class="container">
         <div class="col-lg-offset-1 col-lg-3 ">
             <ul class="nav nav-pills nav-stacked nav-product">
-                <li role="presentation"><a href="#">NUESTROS PRODUCTOS </a></li>
-                <li role="presentation"><a href="#">ENVASE GRADO ALIMENTICIO <i class="icon-2 fa fa-chevron-right" aria-hidden="true"></i></a></li>
-                <li role="presentation"><a href="#">ENVASE VIRGEN TONOS GRISES <i class="icon fa fa-chevron-right" aria-hidden="true"></i></a></li>
-                <li role="presentation"><a href="#">ENVASE VIRGEN TONOS AZULES <i class="icon fa fa-chevron-right" aria-hidden="true"></i></a></li>
-                <li role="presentation"><a href="#">ENVASE SEGUNDA ALTA RESISTENCIA <i class="icon-3 fa fa-chevron-right" aria-hidden="true"></i></a></li>
+                <li role="presentation" class="title"><a href="#">NUESTROS PRODUCTOS </a></li>
+                <li role="presentation" class="orange"><a href="#">ENVASE GRADO ALIMENTICIO <i class="icon-2 fa fa-chevron-right" aria-hidden="true"></i></a></li>
+                <li role="presentation" class="gray"><a href="#">ENVASE VIRGEN TONOS GRISES <i class="icon fa fa-chevron-right" aria-hidden="true"></i></a></li>
+                <li role="presentation" class="blue"><a href="#">ENVASE VIRGEN TONOS AZULES <i class="icon fa fa-chevron-right" aria-hidden="true"></i></a></li>
+                <li role="presentation" class="red"><a href="#">ENVASE SEGUNDA ALTA RESISTENCIA <i class="icon-3 fa fa-chevron-right" aria-hidden="true"></i></a></li>
             </ul>
             <div class="contact-product">
                 <p>CONTACTO </p>
             </div>
         </div>
+        <div class="col-lg-8">
+            <div class="col-lg-6">
+            <div class="square">
+              <img src="img/productos/boto.jpg" class="img-responsive">  
+              <p class="title-img">Envase grado alimenticio</p>
+              <p class="text-product">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut felis tempor, porta ligula sed, hendrerit felis. </p>
+            </div>
+        </div>
         <div class="col-lg-6">
-
+            <div class="square">
+              <img src="img/productos/boto.jpg" class="img-responsive">  
+              <p class="title-img">Envase grado alimenticio</p>
+              <p class="text-product">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut felis tempor, porta ligula sed, hendrerit felis. </p>
+            </div>  
+        </div>
+        <div class="col-lg-6">
+            <div class="square">
+              <img src="img/productos/boto.jpg" class="img-responsive">  
+              <p class="title-img">Envase grado alimenticio</p>
+              <p class="text-product">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut felis tempor, porta ligula sed, hendrerit felis. </p>
+            </div>
+        </div>
+        <div class="col-lg-6">
+            <div class="square">
+              <img src="img/productos/boto.jpg" class="img-responsive">  
+              <p class="title-img">Envase grado alimenticio</p>
+              <p class="text-product">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut felis tempor, porta ligula sed, hendrerit felis. </p>
+            </div>  
+        </div>
+        <div class="col-lg-6">
+            <div class="square">
+              <img src="img/productos/boto.jpg" class="img-responsive">  
+              <p class="title-img">Envase grado alimenticio</p>
+              <p class="text-product">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut felis tempor, porta ligula sed, hendrerit felis. </p>
+            </div>
+        </div>
+        <div class="col-lg-6">
+            <div class="square">
+              <img src="img/productos/boto.jpg" class="img-responsive">  
+              <p class="title-img">Envase grado alimenticio</p>
+              <p class="text-product">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut felis tempor, porta ligula sed, hendrerit felis. </p>
+            </div>  
+        </div>
         </div>
     </div>
     <!-- Footer -->
