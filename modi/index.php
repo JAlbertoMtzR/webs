@@ -103,7 +103,6 @@
 
 
     <div class="col-lg-12 col-sm-12 col-md-12 col-xs-1" id="homenosotros">
-    <img src="img/home/galeria3.png" class="img-responsive" style="position: absolute;width: 50%;height: 100%;float: right;background-size: cover;">
         <div class="container" style="padding-right: 0px !important;">
             <div class="col-lg-6" id="descnosotros" style="color: #fff;">
                 <div class="col-lg-12" id="titunosotros" style="padding-top: 4px;">
