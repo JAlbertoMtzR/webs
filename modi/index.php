@@ -102,7 +102,8 @@
     </div><!--productos-->
 
 
-    <div class="col-lg-12 col-sm-12 col-md-12 col-xs-1" id="homenosotros" style="background-color: #080080;padding-right: 0px !important;padding-bottom: 0;">
+    <div class="col-lg-12 col-sm-12 col-md-12 col-xs-1" id="homenosotros">
+    <img src="img/home/galeria3.png" class="img-responsive" style="position: absolute;width: 50%;height: 100%;float: right;background-size: cover;">
         <div class="container" style="padding-right: 0px !important;">
             <div class="col-lg-6" id="descnosotros" style="color: #fff;">
                 <div class="col-lg-12" id="titunosotros" style="padding-top: 4px;">
@@ -111,22 +112,22 @@
                 <div class="col-lg-12" id="textnosotros" style="text-align: justify;">
                     <span>Lorem ipsum dolor sit amet, no vis aliquid laboramus expetendis, has ex viris imperdiet. Cu usu duis aliquando, nam ne tation primis consulatu. Sed id putent aperiri adipiscing, et nam sonet expetenda. Est eripuit graecis cu. Ea recteque persecuti adolescens nam.</span>
                     <div class="col-lg-12" id="listnosotros" style="">
-                        <div class="col-lg-3" id="check" style="padding-top: 20px;">
+                        <div class="col-lg-3" id="check">
                             <i class="fa fa-check fa-3x" aria-hidden="true"></i>
                         </div><!--check-->
-                        <div class="col-lg-9" id="textcheck" style="margin-left: -65px !important;padding-right: 0px !important;width: 88% !important;padding-top: 20px;">
+                        <div class="col-lg-9" id="textcheck">
                             <span>Lorem ipsum dolor sit amet, no vis aliquid laboramus expetendis, has ex viris imperdiet. Cu usu duis aliquando, nam ne tation primis consulatu. Sed id putent aperiri adipiscing, et nam sonet expetenda.</span>
                         </div><!--textcheck-->
-                        <div class="col-lg-3" id="check" style="padding-top: 20px;">
+                        <div class="col-lg-3" id="check">
                             <i class="fa fa-check fa-3x" aria-hidden="true"></i>
                         </div><!--check-->
-                        <div class="col-lg-9" id="textcheck" style="margin-left: -65px !important;padding-right: 0px !important;width: 88% !important;padding-top: 20px;">
+                        <div class="col-lg-9" id="textcheck">
                             <span>Lorem ipsum dolor sit amet, no vis aliquid laboramus expetendis, has ex viris imperdiet. Cu usu duis aliquando, nam ne tation primis consulatu. Sed id putent aperiri adipiscing, et nam sonet expetenda.</span>
                         </div><!--textcheck-->
-                        <div class="col-lg-3" id="check" style="padding-top: 20px;">
+                        <div class="col-lg-3" id="check">
                             <i class="fa fa-check fa-3x" aria-hidden="true"></i>
                         </div><!--check-->
-                        <div class="col-lg-9" id="textcheck" style="margin-left: -65px !important;padding-right: 0px !important;width: 88% !important;padding-top: 20px;">
+                        <div class="col-lg-9" id="textcheck">
                             <span>Lorem ipsum dolor sit amet, no vis aliquid laboramus expetendis, has ex viris imperdiet. Cu usu duis aliquando, nam ne tation primis consulatu. Sed id putent aperiri adipiscing, et nam sonet expetenda.</span>
                         </div><!--textcheck-->
                     </div><!--listnostros-->
@@ -148,35 +149,27 @@
                 <div id="quad">
                     <figure>
                     <img src="img/home/galeria1.png">
-                    <figcaption>MODI Envases 1</figcaption>
                     </figure>
                     <figure>
                       <img src="img/nosotros/galeria4.jpg">
-                      <figcaption>MODI Envases 2</figcaption>
                     </figure>
                     <figure>
                       <img src="img/nosotros/galeria5.jpg">
-                      <figcaption>MODI Envases 3</figcaption>
                     </figure>
                     <figure>
                       <img src="img/home/galeria2.png">
-                      <figcaption>MODI Envases 4</figcaption>
                     </figure>
                     <figure>
                     <img src="img/home/galeria3.png">
-                    <figcaption>MODI Envases 5</figcaption>
                     </figure>
                     <figure>
                       <img src="img/nosotros/galeria6.jpg">
-                      <figcaption>MODI Envases 6</figcaption>
                     </figure>
                     <figure>
                       <img src="img/nosotros/galeria7.jpg">
-                      <figcaption>MODI Envases 7</figcaption>
                     </figure>
                     <figure>
                       <img src="img/nosotros/galeria8.jpg">
-                      <figcaption>MODI Envases 8</figcaption>
                     </figure>
                 </div><!--quad-->
             </div><!--gallery-->
@@ -184,76 +177,7 @@
     </div><!--instalaciones-->
 
 
-    <div class="col-lg-12 col-sm-12 col-md-12 col-xs-1" id="footer" style="background-color: #080080">
-        <div class="container" style="padding-top: 50px;padding-bottom: 50px;color: #fff;text-align: left;font-weight: bold;">
-            <div class="col-lg-3" id="foot1">
-                <div class="col-lg-12">
-                    <h5>SOBRE NOSOTROS</h5>
-                </div>
-                <div class="col-lg-12">
-                    <h5>Lorem ipsum dolor sit amet, no vis aliquid laboramus expetendis, has ex viris imperdiet.Lorem ipsum dolor sit amet, no vis aliquid laboramus expetendis, has ex viris imperdiet.</h5>
-                </div>
-            </div><!--foot1-->
-            <div class="col-lg-3" id="foot2">
-                <div class="col-lg-12">
-                    <h5>NUESTROS SERVICIOS</h5>
-                </div>
-                <div class="col-lg-12">
-                    <h5>Servicios</h5>
-                </div>
-                <div class="col-lg-12">
-                    <h5>Reparación del motor</h5>
-                </div>
-                <div class="col-lg-12">
-                    <h5>Diagnóstico del ordenador</h5>
-                </div>
-                <div class="col-lg-12">
-                    <h5>Silenciadores</h5>
-                </div>
-            </div><!--foot2-->
-            <div class="col-lg-3" id="foot3">
-                <div class="col-lg-12">
-                    <h5>ENLACES RÁPIDOS</h5>
-                </div>
-                <div class="col-lg-12">
-                    <h5>Home</h5>
-                </div>
-                <div class="col-lg-12">
-                    <h5>Nosotros</h5>
-                </div>
-                <div class="col-lg-12">
-                    <h5>Productos</h5>
-                </div>
-                <div class="col-lg-12">
-                    <h5>Contacto</h5>
-                </div>
-            </div><!--foot3-->
-            <div class="col-lg-3" id="foot4">
-                <div class="col-lg-12">
-                    <h5>INFO</h5>
-                </div>
-                <div class="col-lg-12">
-                    <h5>Puede ponerse en contacto con nosotros o visitarnos</h5>
-                </div>
-                <div class="col-lg-12">
-                    <h5>Tel: 228-254-57-59</h5>
-                </div>
-                <div class="col-lg-12">
-                    <h5>Email: info@modienvases.mx</h5>
-                </div>
-                <div class="col-lg-12">
-                    <h5>Horario: 8:00 am - 17:00 pm</h5>
-                </div>
-            </div><!--foot4-->
-        </div><!--container-->
-    </div><!--footer-->
-
-    <div class="col-lg-12 col-sm-12 col-md-12 col-xs-1" style="background-color: #741919;text-align: center;color: #FFF;">
-            <h4>TODOS LOS DERECHOS RESERVADOS POR MODI ENVASES / <a href="" style="text-decoration: none;color: #fff">AVISO DE PRIVACIDAD</a></h4>
-        </div>
-
-
-
+    <?php include "include/footer.html" ?>
 </div><!--body-->
 </body>
 </html>
@@ -263,8 +187,4 @@
 <script src="js/ripples.min.js"></script>
 <script>
     $.material.init();
-    var quadimages = document.querySelectorAll("#quad figure");
-for(i=0; i<quadimages.length; i++) {
-  quadimages[i].addEventListener('click', function(){ this.classList.toggle("expanded"); quad.classList.toggle("full") }); 
-}
 </script>

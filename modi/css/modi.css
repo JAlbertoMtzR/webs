@@ -6,6 +6,14 @@ body{
   background-color: #fbfafa !important;
   font-family: fuente !important;
 }
+.containera{
+  text-decoration: none;
+  color: #848484 !important;
+}
+.containera:hover{
+  text-decoration: none;
+  color: #080080 !important;
+}
 .fuente{
   font-family: fuente !important;
 }
@@ -87,6 +95,11 @@ body{
     border-width: 1px;
     border-color: #848484;
 }
+#homenosotros{
+  background-color: #080080;
+  padding-right: 0px !important;
+  padding-bottom: 0;
+}
 #row{
     margin-right: 25px !important;
     margin-left: 25px !important;
@@ -95,6 +108,15 @@ body{
 
     height: 278px !important;
     width: 363px !important;
+}
+#check{
+  padding-top: 20px;
+}
+#textcheck{
+  margin-left: -65px !important;
+  padding-right: 0px !important;
+  width: 88% !important;
+  padding-top: 20px;
 }
 
 .navmenu{
@@ -240,33 +262,29 @@ body{
 
 /***********gallery**********/
 div#quad { 
-  background-color: #000; 
+  background-color: #fff; 
   font-size: 0; width: 100%; 
   margin: 0 auto;
 }
 div#quad figure { 
   margin: 0; width: 25%; 
-  height: 308px; transition: 1s; 
+  height: 308px; 
   display: inline-block; 
   position: relative; overflow: hidden; 
 }
-div#quad figure:hover { cursor: pointer; z-index: 4; }
-div#quad figure img { width: 100%; height: 100%; }
-div#quad figure:nth-child(1) { transform-origin: top left; }
-div#quad figure:nth-child(2) { transform-origin: top right; }
-div#quad figure:nth-child(3) { transform-origin: bottom left; }
-div#quad figure:nth-child(4) { transform-origin: bottom right; }
-div#quad figure figcaption { 
-  margin: 0; opacity: 0; 
-  background: rgba(0,0,0,0.3); 
-  color: #fff; padding: .3rem; 
-  font-size: 1.2rem; 
-  position: absolute; 
-  bottom: 0; width: 100%;
-    transition: 1s 1s opacity; 
+div#quad figure img{ 
+  -webkit-transition:all .9s ease; /* Safari y Chrome */
+  -moz-transition:all .9s ease; /* Firefox */
+  -o-transition:all .9s ease; /* IE 9 */
+  -ms-transition:all .9s ease; /* Opera */
 }
-.expanded { transform: scale(2); z-index: 5;  }
-div#quad figure.expanded figcaption { opacity: 1; }
-div.full figure:not(.expanded) { pointer-events: none; }
+div#quad figure:hover img{
+  -webkit-transform:scale(1.25);
+  -moz-transform:scale(1.25);
+  -ms-transform:scale(1.25);
+  -o-transform:scale(1.25);
+  transform:scale(1.25); 
+}
+div#quad figure img { width: 100%; height: 100%; }
 /***********gallery**********/
 
