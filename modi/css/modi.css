@@ -1,15 +1,33 @@
+@font-face {
+    font-family: fuente;
+    src: url(../fonts/bebas/BebasNeue.ttf);
+}
 body{
   background-color: #fbfafa !important;
+  font-family: fuente !important;
 }
-#home {
+.home {
+    /* The image used */
     background-image: url("../img/image.jpg");
-    width: 100%;
+
+    /* Set a specific height */
+    height: 700px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
     background-repeat: no-repeat;
-    -webkit-background-size: cover; 
-    -moz-background-size: cover; 
-    -o-background-size: cover; 
     background-size: cover;
-    height: 700px;
+}
+#redes{
+  background-color:#E8E8E8;
+  padding-top:10px;
+  padding-bottom: 10px;
+  position: fixed;
+  z-index: 2 !important;
+}
+#menu{
+  padding-top: 40px;
 }
 #nosotros {
     background-image: url("../img/image.jpg");
@@ -63,7 +81,19 @@ body{
     width: 363px !important;
 }
 
-
+.navmenu{
+  font-size: 20px;
+  padding-top: 30px !important;
+}
+.navmenu a{
+  text-decoration: none !important;
+  color: #fff;
+}
+.navmenu a:hover{
+  text-decoration: none !important;
+  color: #fff;
+  border-bottom: solid 1px;
+}
 .btnf {
   -webkit-border-radius: 15;
   -moz-border-radius: 15;
