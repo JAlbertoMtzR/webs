@@ -16,25 +16,25 @@
         </div>
     </div><!--redes-->
 
-    <div class="col-lg-12 col-sm-12 col-md-12 col-xs-12 home" id="home">
+    <div class="col-lg-12 col-sm-12 col-md-12 col-xs-12 home" id="nosotros">
         <div class="container" id="menu">
             <div class="col-lg-4 col-sm-4 col-md-4 col-xs-4">
                 <img src="img/correo/logo.png" class="img-responsive">
             </div>
             <div class="col-lg-2 col-sm-2 col-md-2 col-xs-2 navmenu" style="">
-                <a href="">HOME</a>
+                <a href="<?php echo $home;?>">HOME</a>
             </div>
             <div class="col-lg-2 col-sm-2 col-md-2 col-xs-2 navmenu">
-               <a href="nosotros.php">NOSOTROS</a>
+               <a href="<?php echo $nosotros;?>">NOSOTROS</a>
             </div>
             <div class="col-lg-2 col-sm-2 col-md-2 col-xs-2 navmenu">
-              <a href="productos.php">PRODUCTOS</a>
+              <a href="<?php echo $productos;?>">PRODUCTOS</a>
             </div>
             <div class="col-lg-2 col-sm-2 col-md-2 col-xs-2 navmenu">
-                <a href="contacto.php">CONTACTO</a>
+                <a href="<?php echo $contacto;?>">CONTACTO</a>
             </div>          
         </div><!--menu-->
-        <div class="container" id="esloganhome">
-            <span class="fuente" style="font-size: 60px;">CUBETAS DE ALTA RESISTENCIA</span>
+        <div class="container" id="eslogan" style="">
+            <span class="fuente" style="font-size: 60px;"><?php echo $eslogan;?></span>
         </div>
     </div><!--home-->
