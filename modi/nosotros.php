@@ -55,7 +55,7 @@ Somos una empresa comprometida con el medio ambiente y por ello nuestras instala
                 </div>
             </div><!--descnos-->
             <div class="col-lg-6" id="imgnos">
-                <img src="img/envases/DSC_0036.jpg" class="img-responsive">
+                <img src="img/envases/DSC_0036.JPG" class="img-responsive">
             </div><!--imgnos-->
         </div><!--container-->
         
@@ -65,7 +65,7 @@ Somos una empresa comprometida con el medio ambiente y por ello nuestras instala
     <div class="col-lg-12" id="desc2" style="background-color: #080080;">
         <div class="container" style="padding-top: 20px;padding-bottom: 20px;">
             <div class="col-lg-6" id="imgnos">
-                <img src="img/envases/DSC_0055.jpg" class="img-responsive">
+                <img src="img/envases/DSC_0055.JPG" class="img-responsive">
             </div><!--imgnos-->
             <div class="col-lg-6" id="">
                 <div class="col-lg-12" style="text-align: left;color: #fff;padding-top: 20px;padding-bottom: 20px;">
@@ -96,7 +96,7 @@ Somos una empresa comprometida con el medio ambiente y por ello nuestras instala
                     </div>
                 </div>
                 <div class="col-lg-4">
-                    <center><img src="img/envases/DSC_0057.jpg" class="img-responsive" style="width: 80%;"></center>
+                    <center><img src="img/envases/DSC_0057.JPG" class="img-responsive" style="width: 80%;"></center>
                 </div>
                 <div class="col-lg-4">
                     <div class="col-lg-12" style="text-align: left;">
