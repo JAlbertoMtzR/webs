@@ -311,11 +311,25 @@ div#quad figure img { width: 100%; height: 100%; }
 
 
 @media(max-width: 1024px){
-
+  #imgnosotros{
+    display: none;
+  }
+#textcheck {
+    margin-left: -101px !important;
+    padding-right: 0px !important;
+    width: 67% !important;
+    padding-top: 20px;
+}
+div#quad figure {
+    margin: 0;
+    width: 25%;
+    height: 280px;
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+}
 
 }/*****1024*****/
-
-
 @media(max-width: 767px){
 
 }/*****767*****/

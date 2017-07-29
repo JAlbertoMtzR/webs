@@ -17,7 +17,7 @@
 
     <div class="col-lg-12 col-sm-12 col-md-12 col-xs-1" id="productos">
         <div class="container">
-            <div class="col-lg-8 col-sm-8 col-md-12 col-xs-12" id="producto">
+            <div class="col-lg-8 col-sm-8 col-md-8 col-xs-12" id="producto">
                 <div class="col-lg-12 col-sm-12 col-md-12 col-xs-12" id="tituproduc">
                     <span class="fuente" style="font-size: 40px;">NUESTROS PRODUCTOS</span>
                 </div><!--tituproduc-->
@@ -27,7 +27,7 @@
                 <div class="col-lg-12 col-sm-12 col-md-12 col-xs-12" id="descproduc">
                     <div class="col-lg-6 col-sm-6 col-md-6 col-xs-12" id="cuadro">
                         <div class="col-lg-12 col-sm-12 col-md-12 col-xs-12" id="producto1">
-                            <div class="col-lg-12">
+                            <div class="col-lg-12 col-sm-12 col-md-12 col-xs-12">
                                 <center><img src="img/productos/boto.jpg" class="img-responsive img-produc"></center>
                                 <h5 style="text-align: center;color: #E18C24;font-weight: bold;font-size: 13px;">ENVASE GRADO ALIMENTICIO</h5>
                                 <span style="text-align: justify;">Lorem ipsum dolor sit amet, no vis aliquid laboramus expetendis, has ex viris imperdiet.</span>
@@ -43,18 +43,18 @@
                             </div>
                         </div><!--producto2-->
                     </div><!--cuadro-->
-                    <div class="col-lg-6" id="cuadro">
-                        <div class="col-lg-12" id="producto3">
-                            <div class="col-lg-12">
+                    <div class="col-lg-6 col-lg-6 col-sm-6 col-md-6 col-xs-12" id="cuadro">
+                        <div class="col-lg-12 col-sm-12 col-md-12 col-xs-12" id="producto3">
+                            <div class="col-lg-12 col-sm-12 col-md-12 col-xs-12">
                                 <center><img src="img/productos/boto.jpg" class="img-responsive img-produc"></center>
                                 <h5 style="text-align: center;color: #B0172E;font-weight: bold;font-size: 13px;">ENVASE SEGUNDA ALTA RESISTENCIA</h5>
                                 <span style="text-align: justify;">Lorem ipsum dolor sit amet, no vis aliquid laboramus expetendis, has ex viris imperdiet.</span>
                             </div>
                         </div><!--producto3-->
                     </div><!--cuadro-->
-                    <div class="col-lg-6" id="cuadro">
-                        <div class="col-lg-12" id="producto4">
-                            <div class="col-lg-12">
+                    <div class="col-lg-6 col-lg-6 col-sm-6 col-md-6 col-xs-12" id="cuadro">
+                        <div class="col-lg-12 col-sm-12 col-md-12 col-xs-12" id="producto4">
+                            <div class="col-lg-12 col-sm-12 col-md-12 col-xs-12">
                                 <center><img src="img/productos/boto.jpg" class="img-responsive img-produc"></center>
                                 <h5 style="text-align: center;color: #080080;font-weight: bold;font-size: 13px;">ENVASE VIRGEN TONOS AZULES</h5>
                                 <span style="text-align: justify;">Lorem ipsum dolor sit amet, no vis aliquid laboramus expetendis, has ex viris imperdiet.</span>
@@ -65,7 +65,7 @@
             </div><!--producto-->
 
 
-            <div class="col-lg-4" id="formulario">
+            <div class="col-lg-4 col-sm-4 col-md-4 col-xs-12" id="formulario">
                 <div class="col-lg-12" id="tituform" style="background-color: #080080;">
                     <div class="col-lg-12" style="text-align: center;color: white">
                         <span class="fuente" style="font-size: 40px;">SOLICITAR PRESUPUESTO</span>
@@ -104,35 +104,35 @@
 
     <div class="col-lg-12 col-sm-12 col-md-12 col-xs-1" id="homenosotros">
         <div class="container" style="padding-right: 0px !important;">
-            <div class="col-lg-6" id="descnosotros" style="color: #fff;">
-                <div class="col-lg-12" id="titunosotros" style="padding-top: 4px;">
+            <div class="col-lg-6 col-sm-6 col-md-6 col-xs-12" id="descnosotros" style="color: #fff;">
+                <div class="col-lg-12 col-sm-12 col-md-12 col-xs-12" id="titunosotros" style="padding-top: 4px;">
                     <span class="fuente" style="font-size: 40px;">NOSTROS</span>
                 </div><!--titunostros-->
-                <div class="col-lg-12" id="textnosotros" style="text-align: justify;">
+                <div class="col-lg-12 col-sm-12 col-md-12 col-xs-12" id="textnosotros" style="text-align: justify;">
                     <span>Lorem ipsum dolor sit amet, no vis aliquid laboramus expetendis, has ex viris imperdiet. Cu usu duis aliquando, nam ne tation primis consulatu. Sed id putent aperiri adipiscing, et nam sonet expetenda. Est eripuit graecis cu. Ea recteque persecuti adolescens nam.</span>
-                    <div class="col-lg-12" id="listnosotros" style="">
-                        <div class="col-lg-3" id="check">
+                    <div class="col-lg-12 col-sm-12 col-md-12 col-xs-12" id="listnosotros" style="">
+                        <div class="col-lg-3 col-sm-3 col-md-3 col-xs-4" id="check">
                             <i class="fa fa-check fa-3x" aria-hidden="true"></i>
                         </div><!--check-->
-                        <div class="col-lg-9" id="textcheck">
+                        <div class="col-lg-9 col-sm-9 col-md-9 col-xs-12" id="textcheck">
                             <span>Lorem ipsum dolor sit amet, no vis aliquid laboramus expetendis, has ex viris imperdiet. Cu usu duis aliquando, nam ne tation primis consulatu. Sed id putent aperiri adipiscing, et nam sonet expetenda.</span>
                         </div><!--textcheck-->
-                        <div class="col-lg-3" id="check">
+                        <div class="col-lg-3 col-sm-3 col-md-3 col-xs-4" id="check">
                             <i class="fa fa-check fa-3x" aria-hidden="true"></i>
                         </div><!--check-->
-                        <div class="col-lg-9" id="textcheck">
+                        <div class="col-lg-9 col-sm-9 col-md-9 col-xs-12" id="textcheck">
                             <span>Lorem ipsum dolor sit amet, no vis aliquid laboramus expetendis, has ex viris imperdiet. Cu usu duis aliquando, nam ne tation primis consulatu. Sed id putent aperiri adipiscing, et nam sonet expetenda.</span>
                         </div><!--textcheck-->
-                        <div class="col-lg-3" id="check">
+                        <div class="col-lg-3 col-sm-3 col-md-3 col-xs-4" id="check">
                             <i class="fa fa-check fa-3x" aria-hidden="true"></i>
                         </div><!--check-->
-                        <div class="col-lg-9" id="textcheck">
+                        <div class="col-lg-9 col-sm-9 col-md-9 col-xs-12" id="textcheck">
                             <span>Lorem ipsum dolor sit amet, no vis aliquid laboramus expetendis, has ex viris imperdiet. Cu usu duis aliquando, nam ne tation primis consulatu. Sed id putent aperiri adipiscing, et nam sonet expetenda.</span>
                         </div><!--textcheck-->
                     </div><!--listnostros-->
                 </div><!--textnosotros-->
             </div><!--descnosotros-->
-        <div class="col-lg-6" id="imgnosotros">
+        <div class="col-lg-6 col-sm-6 col-md-6 col-xs-12" id="imgnosotros">
             <img src="img/home/galeria3.png" class="img-responsive">
         </div><!--imgnosotros-->
         </div><!--container-->               
