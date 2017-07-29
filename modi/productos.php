@@ -54,7 +54,11 @@
                 <li role="presentation" class="red"><a href="#">ENVASE SEGUNDA ALTA RESISTENCIA <i class="icon-3 fa fa-chevron-right" aria-hidden="true"></i></a></li>
             </ul>
             <div class="contact-product">
-                <p>CONTACTO </p>
+                <p class="contact-p">CONTACTO </p>
+                <p class="text-center">Teléfono </p>
+                <p class="telefono text-center"><i class="fa fa-phone icon-contact" aria-hidden="true"></i> 228-254-57-59 </p>
+                <p class="email text-center"> E-mail: </p>
+                <p class="text-center telefono"><i class="fa fa-envelope icon-contact" aria-hidden="true"></i> info@modienvases.mx </p>
             </div>
         </div>
         <div class="col-lg-8">

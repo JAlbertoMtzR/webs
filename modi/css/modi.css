@@ -256,9 +256,21 @@ body{
   text-align: center;
   font-size: 19px;
 }
-.text-product{
-  font-family: all;
+.text-product, .telefono{
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
+.contact-p{
+  font-size: 20px;
+}
+.telefono{
+  color: #535354;
+  font-size: 16px;
+}
+.icon-contact{
+  color: #00046b;
+  margin-right: 10px;
+}
+
 
 /***********gallery**********/
 div#quad { 
