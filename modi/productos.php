@@ -23,7 +23,7 @@ $eslogan="PRODUCTOS";
 
     <!-- Contacto -->
     <div class="container">
-        <div class="col-xs-12 col-sm-3 col-md-3 col-lg-offset-1 col-lg-3 ">
+        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-offset-1 col-lg-3 ">
             <ul class="nav nav-pills nav-stacked nav-product">
                 <li role="presentation" class="title"><a href="#">NUESTROS PRODUCTOS </a></li>
                 <li role="presentation" class="orange"><a href="#">ENVASE GRADO ALIMENTICIO <i class="icon-2 fa fa-chevron-right" aria-hidden="true"></i></a></li>

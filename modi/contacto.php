@@ -22,8 +22,8 @@ $eslogan="CONTACTO";
     <?php include "include/header.php" ?>
 
     <!-- Contacto -->
-    <div class="col-lg-12">
-        <div class="col-lg-offset-1 col-lg-5 contact-form">
+    <div class="col-xs-12 col-lg-12">
+        <div class="col-xs-12 col-sm-5 col-md-offset-6 col-md-6 col-lg-offset-1 col-lg-5 contact-form">
             <form class="form-inline">
                 <div class="form-group">
                     <label class="sr-only" for="exampleInputEmail3">Nombre</label>
@@ -42,7 +42,7 @@ $eslogan="CONTACTO";
             </form>
         </div>
         <!-- Contacto -->
-        <div class="col-lg-4 contact">
+        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 contact">
             <p>Puede ponerse en contacto o visítenos en nuestra oficina de lunes a viernes de 08:00 - 17:00</p>
             <p><i class="fa fa-map-marker" aria-hidden="true"></i> <span class="padding">Blvd. industria veracruzana No. 2 corral falso, emiliano zapata</span></p>
             <hr>
