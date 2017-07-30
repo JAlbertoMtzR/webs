@@ -23,7 +23,7 @@ $eslogan="PRODUCTOS";
 
     <!-- Contacto -->
     <div class="container">
-        <div class="col-lg-offset-1 col-lg-3 ">
+        <div class="col-xs-12 col-sm-3 col-md-3 col-lg-offset-1 col-lg-3 ">
             <ul class="nav nav-pills nav-stacked nav-product">
                 <li role="presentation" class="title"><a href="#">NUESTROS PRODUCTOS </a></li>
                 <li role="presentation" class="orange"><a href="#">ENVASE GRADO ALIMENTICIO <i class="icon-2 fa fa-chevron-right" aria-hidden="true"></i></a></li>
@@ -39,43 +39,43 @@ $eslogan="PRODUCTOS";
                 <p class="text-center telefono"><i class="fa fa-envelope icon-contact" aria-hidden="true"></i> info@modienvases.mx </p>
             </div>
         </div>
-        <div class="col-lg-8">
-            <div class="col-lg-6">
+        <div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+          <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
             <div class="square">
               <img src="img/productos/boto.jpg" class="img-responsive">  
               <p class="title-img">Envase grado alimenticio</p>
               <p class="text-product">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut felis tempor, porta ligula sed, hendrerit felis. </p>
             </div>
         </div>
-        <div class="col-lg-6">
+        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
             <div class="square">
               <img src="img/productos/boto.jpg" class="img-responsive">  
               <p class="title-img">Envase grado alimenticio</p>
               <p class="text-product">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut felis tempor, porta ligula sed, hendrerit felis. </p>
             </div>  
         </div>
-        <div class="col-lg-6">
+        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
             <div class="square">
               <img src="img/productos/boto.jpg" class="img-responsive">  
               <p class="title-img">Envase grado alimenticio</p>
               <p class="text-product">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut felis tempor, porta ligula sed, hendrerit felis. </p>
             </div>
         </div>
-        <div class="col-lg-6">
+        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
             <div class="square">
               <img src="img/productos/boto.jpg" class="img-responsive">  
               <p class="title-img">Envase grado alimenticio</p>
               <p class="text-product">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut felis tempor, porta ligula sed, hendrerit felis. </p>
             </div>  
         </div>
-        <div class="col-lg-6">
+        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
             <div class="square">
               <img src="img/productos/boto.jpg" class="img-responsive">  
               <p class="title-img">Envase grado alimenticio</p>
               <p class="text-product">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut felis tempor, porta ligula sed, hendrerit felis. </p>
             </div>
         </div>
-        <div class="col-lg-6">
+        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
             <div class="square">
               <img src="img/productos/boto.jpg" class="img-responsive">  
               <p class="title-img">Envase grado alimenticio</p>

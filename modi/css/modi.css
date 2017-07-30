@@ -193,7 +193,7 @@ body{
   width: 85% !important;
 }
 .textfoot{
-  font-size: 10px;
+  font-size: 14px;
   font-family: 'Roboto', sans-serif;
 }
 .derechos{
@@ -357,9 +357,18 @@ div#quad figure:hover img{
 div#quad figure img { width: 100%; height: 100%; }
 /***********gallery**********/
 
+/****Footer******/
+.border-bot{
+    border-bottom: 3px solid #ad2929;
+}
+.bot{
+  margin-bottom: 10px;
+}
 
-
-
+/*********Header*********/
+.nav-header{
+  background-color: #080080;
+}
 
 
 
@@ -410,7 +419,10 @@ div#quad figure {
 
 
 @media (max-width: 320px){
-
+  .border-bot{
+    font-size: 22px;
+    font-weight: normal;
+  }
 
 }/*****320*****/
 
