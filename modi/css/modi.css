@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Roboto');
 @font-face {
     font-family: fuente;
     src: url(../fonts/bebas/BebasNeue.ttf);
@@ -5,6 +6,7 @@
 body{
   background-color: #fbfafa !important;
   font-family: fuente !important;
+  font-weight: normal;
 }
 .containera{
   text-decoration: none;
@@ -100,6 +102,9 @@ body{
     border-top: 3px solid #080080 !important;
     outline: 1px solid #848484 !important;
 }
+#footer{
+  font-family: fuente !important;
+}
 #formulario{
     margin-top: -164px;
 }
@@ -131,6 +136,13 @@ body{
   width: 88% !important;
   padding-top: 20px;
 }
+#derechos{
+  background-color: #741919;
+  text-align: center;
+  color: #FFF;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
 
 .navmenu{
   font-size: 20px;
@@ -141,6 +153,17 @@ body{
   color: #fff;
 }
 .navmenu a:hover{
+  text-decoration: none !important;
+  color: #fff;
+  border-bottom: solid 1px;
+}
+.navfooter a{
+  text-decoration: none !important;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+  font-size: 10px;
+}
+.navfooter a:hover{
   text-decoration: none !important;
   color: #fff;
   border-bottom: solid 1px;
@@ -168,6 +191,27 @@ body{
 }
 .img-produc:hover{
   width: 85% !important;
+}
+.textfoot{
+  font-size: 10px;
+  font-family: 'Roboto', sans-serif;
+}
+.derechos{
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+}
+.derechos a{
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+  text-decoration: none;
+  color: #fff;
+  border-bottom: 1px solid;
+}
+.derechos a:hover{
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+  text-decoration: none;
+  color: #fff;
 }
 
 /*********Contact form**************/

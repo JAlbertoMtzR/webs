@@ -44,19 +44,19 @@ $eslogan="CONTACTO";
         <!-- Contacto -->
         <div class="col-lg-4 contact">
             <p>Puede ponerse en contacto o visítenos en nuestra oficina de lunes a viernes de 08:00 - 17:00</p>
-            <p><i class="fa fa-map-marker" aria-hidden="true"></i> <span class="padding">A 41 Pandav Nagar, Nueva Delhi, India, 110005</span></p>
+            <p><i class="fa fa-map-marker" aria-hidden="true"></i> <span class="padding">Blvd. industria veracruzana No. 2 corral falso, emiliano zapata</span></p>
             <hr>
-            <p><i class="fa fa-phone" aria-hidden="true"></i><span class="padding">+91 4000-5000</span></p>
-            <p><span class="padding-2"> +91 4500-4000</span></p>
+            <p><i class="fa fa-phone" aria-hidden="true"></i><span class="padding">(279)834 2000</span></p>
+            <p><span class="padding-2">2281777880</span></p>
             <hr>
-            <p><i class="fa fa-envelope-o" aria-hidden="true"></i><span class="padding">mechanic@gmail.com</span></p>
+            <p><i class="fa fa-envelope-o" aria-hidden="true"></i><span class="padding">info@envasesmodi.com</span></p>
         </div>     
     </div>
     <div class="col-lg-12" style="padding: 0;">
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d59544.884613839225!2d-86.88343054942291!3d21.130288826472224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4c2bfe37e860b3%3A0x542924d7054fb104!2sPlaza+Las+Am%C3%A9ricas!5e0!3m2!1ses-419!2smx!4v1501045455037" width="100%" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
     </div>
-    
-<?php include "include/footer.html" ?>
+
+<?php include "include/footer.php" ?>
 
 </div><!--body-->
 </body>

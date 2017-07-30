@@ -42,42 +42,42 @@ $eslogan="PRODUCTOS";
         <div class="col-lg-8">
             <div class="col-lg-6">
             <div class="square">
-              <img src="img/productos/boto.JPG" class="img-responsive">  
+              <img src="img/productos/boto.jpg" class="img-responsive">  
               <p class="title-img">Envase grado alimenticio</p>
               <p class="text-product">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut felis tempor, porta ligula sed, hendrerit felis. </p>
             </div>
         </div>
         <div class="col-lg-6">
             <div class="square">
-              <img src="img/productos/boto.JPG" class="img-responsive">  
+              <img src="img/productos/boto.jpg" class="img-responsive">  
               <p class="title-img">Envase grado alimenticio</p>
               <p class="text-product">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut felis tempor, porta ligula sed, hendrerit felis. </p>
             </div>  
         </div>
         <div class="col-lg-6">
             <div class="square">
-              <img src="img/productos/boto.JPG" class="img-responsive">  
+              <img src="img/productos/boto.jpg" class="img-responsive">  
               <p class="title-img">Envase grado alimenticio</p>
               <p class="text-product">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut felis tempor, porta ligula sed, hendrerit felis. </p>
             </div>
         </div>
         <div class="col-lg-6">
             <div class="square">
-              <img src="img/productos/boto.JPG" class="img-responsive">  
+              <img src="img/productos/boto.jpg" class="img-responsive">  
               <p class="title-img">Envase grado alimenticio</p>
               <p class="text-product">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut felis tempor, porta ligula sed, hendrerit felis. </p>
             </div>  
         </div>
         <div class="col-lg-6">
             <div class="square">
-              <img src="img/productos/boto.JPG" class="img-responsive">  
+              <img src="img/productos/boto.jpg" class="img-responsive">  
               <p class="title-img">Envase grado alimenticio</p>
               <p class="text-product">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut felis tempor, porta ligula sed, hendrerit felis. </p>
             </div>
         </div>
         <div class="col-lg-6">
             <div class="square">
-              <img src="img/productos/boto.JPG" class="img-responsive">  
+              <img src="img/productos/boto.jpg" class="img-responsive">  
               <p class="title-img">Envase grado alimenticio</p>
               <p class="text-product">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut felis tempor, porta ligula sed, hendrerit felis. </p>
             </div>  
@@ -85,7 +85,7 @@ $eslogan="PRODUCTOS";
         </div>
     </div>
 
-<?php include "include/footer.html" ?>
+<?php include "include/footer.php" ?>
 
 </div><!--body-->
 </body>

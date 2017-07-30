@@ -111,7 +111,7 @@ Somos una empresa comprometida con el medio ambiente y por ello nuestras instala
     </div><!--dec3-->
 
 
-<?php include "include/footer.html" ?>
+<?php include "include/footer.php" ?>
 
 </div><!--body-->
 </body>

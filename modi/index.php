@@ -1,3 +1,10 @@
+  <?php 
+$home="index.php";
+$nosotros="nosotros.php";
+$productos="productos.php";
+$contacto="contacto.php";
+$eslogan="CUBETAS DE ALTA RESISTENCIA";
+ ?>
  <!DOCTYPE html>
 <html>
 <head>
@@ -28,7 +35,7 @@
                     <div class="col-lg-6 col-sm-6 col-md-6 col-xs-12" id="cuadro">
                         <div class="col-lg-12 col-sm-12 col-md-12 col-xs-12" id="producto1">
                             <div class="col-lg-12 col-sm-12 col-md-12 col-xs-12">
-                                <center><img src="img/productos/boto.JPG" class="img-responsive img-produc"></center>
+                                <center><img src="img/productos/boto.jpg" class="img-responsive img-produc"></center>
                                 <h5 style="text-align: center;color: #E18C24;font-weight: bold;font-size: 13px;">ENVASE GRADO ALIMENTICIO</h5>
                                 <span style="text-align: justify;">Lorem ipsum dolor sit amet, no vis aliquid laboramus expetendis, has ex viris imperdiet.</span>
                             </div>
@@ -37,7 +44,7 @@
                     <div class="col-lg-6 col-sm-6 col-md-6 col-xs-12" id="cuadro">
                         <div class="col-lg-12 col-sm-12 col-md-12 col-xs-12" id="producto2">
                             <div class="col-lg-12 col-sm-12 col-md-12 col-xs-12">
-                                <center><img src="img/productos/boto.JPG" class="img-responsive img-produc"></center>
+                                <center><img src="img/productos/boto.jpg" class="img-responsive img-produc"></center>
                                 <h5 style="text-align: center;color: #232323;font-weight: bold;font-size: 13px;">ENVASE VIRGEN TONOS GRISES</h5>
                                 <span style="text-align: justify;">Lorem ipsum dolor sit amet, no vis aliquid laboramus expetendis, has ex viris imperdiet.</span>
                             </div>
@@ -46,7 +53,7 @@
                     <div class="col-lg-6 col-lg-6 col-sm-6 col-md-6 col-xs-12" id="cuadro">
                         <div class="col-lg-12 col-sm-12 col-md-12 col-xs-12" id="producto3">
                             <div class="col-lg-12 col-sm-12 col-md-12 col-xs-12">
-                                <center><img src="img/productos/boto.JPG" class="img-responsive img-produc"></center>
+                                <center><img src="img/productos/boto.jpg" class="img-responsive img-produc"></center>
                                 <h5 style="text-align: center;color: #B0172E;font-weight: bold;font-size: 13px;">ENVASE SEGUNDA ALTA RESISTENCIA</h5>
                                 <span style="text-align: justify;">Lorem ipsum dolor sit amet, no vis aliquid laboramus expetendis, has ex viris imperdiet.</span>
                             </div>
@@ -55,7 +62,7 @@
                     <div class="col-lg-6 col-lg-6 col-sm-6 col-md-6 col-xs-12" id="cuadro">
                         <div class="col-lg-12 col-sm-12 col-md-12 col-xs-12" id="producto4">
                             <div class="col-lg-12 col-sm-12 col-md-12 col-xs-12">
-                                <center><img src="img/productos/boto.JPG" class="img-responsive img-produc"></center>
+                                <center><img src="img/productos/boto.jpg" class="img-responsive img-produc"></center>
                                 <h5 style="text-align: center;color: #080080;font-weight: bold;font-size: 13px;">ENVASE VIRGEN TONOS AZULES</h5>
                                 <span style="text-align: justify;">Lorem ipsum dolor sit amet, no vis aliquid laboramus expetendis, has ex viris imperdiet.</span>
                             </div>
@@ -150,10 +157,10 @@
                     <img src="img/home/galeria1.png">
                     </figure>
                     <figure>
-                      <img src="img/nosotros/galeria4.JPG">
+                      <img src="img/home/galeria4.JPG">
                     </figure>
                     <figure>
-                      <img src="img/nosotros/galeria5.JPG">
+                      <img src="img/home/galeria5.JPG">
                     </figure>
                     <figure>
                       <img src="img/home/galeria2.png">
@@ -162,13 +169,13 @@
                     <img src="img/home/galeria3.png">
                     </figure>
                     <figure>
-                      <img src="img/nosotros/galeria6.JPG">
+                      <img src="img/home/galeria6.JPG">
                     </figure>
                     <figure>
-                      <img src="img/nosotros/galeria7.JPG">
+                      <img src="img/home/galeria7.JPG">
                     </figure>
                     <figure>
-                      <img src="img/nosotros/galeria8.JPG">
+                      <img src="img/home/galeria8.JPG">
                     </figure>
                 </div><!--quad-->
             </div><!--gallery-->
@@ -176,7 +183,7 @@
     </div><!--instalaciones-->
 
 
-    <?php include "include/footer.html" ?>
+    <?php include "include/footer.php" ?>
 </div><!--body-->
 </body>
 </html>
