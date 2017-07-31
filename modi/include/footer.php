@@ -70,5 +70,5 @@
     </div><!--footer-->
 
     <div class="col-lg-12 col-sm-12 col-md-12 col-xs-12" id="derechos">
-            <span class="derechos">TODOS LOS DERECHOS RESERVADOS POR MODI ENVASES / <a href="">AVISO DE PRIVACIDAD</a></span>
+            <span class="derechos">TODOS LOS DERECHOS RESERVADOS POR MODI ENVASES / <a href="../img/avisoprivacidad.pdf" download="AvisoPrivacidad">AVISO DE PRIVACIDAD</a></span>
         </div>

@@ -32,6 +32,9 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+.titulo{
+  font-size: 40px;
+}
 #esloganhome{
   text-align: center;
   color: white; 
@@ -46,6 +49,12 @@ body{
   background-color:#E8E8E8;
   padding-top:10px;
   padding-bottom: 10px;
+  position: fixed;
+  z-index: 2 !important;
+}
+#menu-responsive{
+  display: none;
+  background-color:#E8E8E8;
   position: fixed;
   z-index: 2 !important;
 }
@@ -365,8 +374,6 @@ div#quad figure img { width: 100%; height: 100%; }
 
 
 
-
-
 @media(max-width: 1024px){
   #imgnosotros{
     display: none;
@@ -378,6 +385,46 @@ div#quad figure {
     display: inline-block;
     position: relative;
     overflow: hidden;
+}
+@media(max-width: 425px){
+
+  #redes{
+    display: none !important;
+  }
+  #menu{
+    display: none !important;
+  }
+  #formulario {
+    margin-top: 30px;
+  }
+  #menu-responsive{
+  display: block !important;
+  padding: 20px;
+  }
+  #esloganhome {
+    text-align: center;
+    color: white;
+    padding-top: 150px !important;
+  }
+  div#quad figure {
+    margin: 0;
+    width: 50%;
+    height: 250px;
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+  }
+  .titulo{
+    font-size: 20px !important;
+  }
+  .home {
+    background-image: url(../img/image.jpg);
+    height: 370px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 }
 
 

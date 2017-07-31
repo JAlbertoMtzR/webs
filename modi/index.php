@@ -22,11 +22,11 @@ $eslogan="CUBETAS DE ALTA RESISTENCIA";
     
     <?php include "include/header-home.html" ?>
 
-    <div class="col-lg-12 col-sm-12 col-md-12 col-xs-1" id="productos">
+    <div class="col-lg-12 col-sm-12 col-md-12 col-xs-12" id="productos">
         <div class="container">
             <div class="col-lg-8 col-sm-8 col-md-8 col-xs-12" id="producto">
                 <div class="col-lg-12 col-sm-12 col-md-12 col-xs-12" id="tituproduc">
-                    <span class="fuente" style="font-size: 40px;">NUESTROS PRODUCTOS</span>
+                    <span class="fuente titulo">NUESTROS PRODUCTOS</span>
                 </div><!--tituproduc-->
                 <div class="col-lg-12 col-sm-12 col-md-12 col-xs-12" id="textproduc">
                     <p>Lorem ipsum dolor sit amet, no vis aliquid laboramus expetendis, has ex viris imperdiet. Cu usu duis aliquando, nam ne tation primis consulatu. Sed id putent aperiri adipiscing, et nam sonet expetenda. Est eripuit graecis cu. Ea recteque persecuti adolescens nam.</p>
@@ -109,7 +109,7 @@ $eslogan="CUBETAS DE ALTA RESISTENCIA";
     </div><!--productos-->
 
 
-    <div class="col-lg-12 col-sm-12 col-md-12 col-xs-1" id="homenosotros">
+    <div class="col-lg-12 col-sm-12 col-md-12 col-xs-12" id="homenosotros">
         <div class="container" style="padding-right: 0px !important;">
             <div class="col-lg-6 col-sm-6 col-md-6 col-xs-12" id="descnosotros" style="color: #fff;">
                 <div class="col-lg-12 col-sm-12 col-md-12 col-xs-12" id="titunosotros" style="padding-top: 4px;">
@@ -146,7 +146,7 @@ $eslogan="CUBETAS DE ALTA RESISTENCIA";
     </div><!--nosotros-->
 
 
-    <div class="col-lg-12 col-sm-12 col-md-12 col-xs-1 paddcero" id="instalaciones">
+    <div class="col-lg-12 col-sm-12 col-md-12 col-xs-12 paddcero" id="instalaciones">
         <div class="col-lg-12" style="padding-top: 20px;padding-right: 0;padding-left: 0;">
             <div class="col-lg-12" id="tituinsta" style="text-align: center;padding-bottom: 20px;">
                 <span class="fuente" style="font-size: 40px;color: #525252;">NUESTRAS INSTALACIONES</span>
