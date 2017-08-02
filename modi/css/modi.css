@@ -327,7 +327,9 @@ body{
   color: #00046b;
   margin-right: 10px;
 }
-
+.azul{
+  color: #080080 !important;
+}
 
 /***********gallery**********/
 div#quad { 
