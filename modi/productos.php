@@ -25,11 +25,21 @@ $eslogan="PRODUCTOS";
     <div class="container">
         <div class="col-xs-12 col-sm-4 col-md-4 col-lg-offset-1 col-lg-3 ">
             <ul class="nav nav-stacked nav-product" role="tablist">
-                <li role="presentation" class="title"><a href="#">NUESTROS PRODUCTOS </a></li>
-                <li role="presentation" class="orange"><a href="#alimenticio" aria-toggle="tab">ENVASE GRADO ALIMENTICIO <i class="icon-2 fa fa-chevron-right" aria-hidden="true"></i></a></li>
-                <li role="presentation" class="gray"><a href="#grises" aria-toggle="tab">ENVASE VIRGEN TONOS GRISES <i class="icon fa fa-chevron-right" aria-hidden="true"></i></a></li>
-                <li role="presentation" class="blue"><a href="#azules" aria-toggle="tab">ENVASE VIRGEN TONOS AZULES <i class="icon fa fa-chevron-right" aria-hidden="true"></i></a></li>
-                <li role="presentation" class="red"><a href="#resistencia" aria-toggle="tab">ENVASE SEGUNDA ALTA RESISTENCIA <i class="icon-3 fa fa-chevron-right" aria-hidden="true"></i></a></li>
+                <li role="presentation" class="title">
+                  <a href="#">NUESTROS PRODUCTOS </a>
+                </li>
+                <li role="presentation" class="orange active">
+                  <a href="#alimenticio" aria-controls="alimenticio" role="tab" data-toggle="tab">ENVASE GRADO ALIMENTICIO <i class="icon-2 fa fa-chevron-right" aria-hidden="true"></i></a>
+                </li>
+                <li role="presentation" class="gray">
+                  <a href="#grises" aria-controls="grises" role="tab" data-toggle="tab">ENVASE VIRGEN TONOS GRISES <i class="icon fa fa-chevron-right" aria-hidden="true"></i></a>
+                </li>
+                <li role="presentation" class="blue">
+                  <a href="#azules" aria-controls="azules" role="tab" data-toggle="tab">ENVASE VIRGEN TONOS AZULES <i class="icon fa fa-chevron-right" aria-hidden="true"></i></a>
+                </li>
+                <li role="presentation" class="red">
+                  <a href="#resistencia" aria-controls="resistencia" role="tab" data-toggle="tab">ENVASE SEGUNDA ALTA RESISTENCIA <i class="icon-3 fa fa-chevron-right" aria-hidden="true"></i></a>
+                </li>
             </ul>
 
             <div class="contact-product">
@@ -46,28 +56,28 @@ $eslogan="PRODUCTOS";
               <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
                 <div class="square">
                   <img src="img/productos/boto.jpg" class="img-responsive">  
-                  <p class="title-img">Envase grado alimenticio</p>
+                  <p class="title-orange">Envase grado alimenticio</p>
                   <p class="text-product">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut felis tempor, porta ligula sed, hendrerit felis. </p>
                 </div>
               </div>
               <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
                 <div class="square">
                   <img src="img/productos/boto.jpg" class="img-responsive">  
-                  <p class="title-img">Envase grado alimenticio</p>
+                  <p class="title-orange">Envase grado alimenticio</p>
                   <p class="text-product">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut felis tempor, porta ligula sed, hendrerit felis. </p>
                 </div>
               </div>
               <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
                 <div class="square">
                   <img src="img/productos/boto.jpg" class="img-responsive">  
-                  <p class="title-img">Envase grado alimenticio</p>
+                  <p class="title-orange">Envase grado alimenticio</p>
                   <p class="text-product">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut felis tempor, porta ligula sed, hendrerit felis. </p>
                 </div>
               </div>
               <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
                 <div class="square">
                   <img src="img/productos/boto.jpg" class="img-responsive">  
-                  <p class="title-img">Envase grado alimenticio</p>
+                  <p class="title-orange">Envase grado alimenticio</p>
                   <p class="text-product">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut felis tempor, porta ligula sed, hendrerit felis. </p>
                 </div>
               </div>
@@ -78,28 +88,28 @@ $eslogan="PRODUCTOS";
               <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
                 <div class="square">
                   <img src="img/productos/boto.jpg" class="img-responsive">  
-                  <p class="title-img">Envase grado alimenticio</p>
+                  <p class="title-gris">Envase grado alimenticio</p>
                   <p class="text-product">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut felis tempor, porta ligula sed, hendrerit felis. </p>
                 </div>
               </div>
               <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
                 <div class="square">
                   <img src="img/productos/boto.jpg" class="img-responsive">  
-                  <p class="title-img">Envase grado alimenticio</p>
+                  <p class="title-gris">Envase grado alimenticio</p>
                   <p class="text-product">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut felis tempor, porta ligula sed, hendrerit felis. </p>
                 </div>
               </div>
               <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
                 <div class="square">
                   <img src="img/productos/boto.jpg" class="img-responsive">  
-                  <p class="title-img">Envase grado alimenticio</p>
+                  <p class="title-gris">Envase grado alimenticio</p>
                   <p class="text-product">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut felis tempor, porta ligula sed, hendrerit felis. </p>
                 </div>
               </div>
               <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
                 <div class="square">
                   <img src="img/productos/boto.jpg" class="img-responsive">  
-                  <p class="title-img">Envase grado alimenticio</p>
+                  <p class="title-gris">Envase grado alimenticio</p>
                   <p class="text-product">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut felis tempor, porta ligula sed, hendrerit felis. </p>
                 </div>
               </div>
@@ -111,28 +121,28 @@ $eslogan="PRODUCTOS";
               <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
                 <div class="square">
                   <img src="img/productos/boto.jpg" class="img-responsive">  
-                  <p class="title-img azul">Envase grado alimenticio</p>
+                  <p class="title-azul">Envase grado alimenticio</p>
                   <p class="text-product">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut felis tempor, porta ligula sed, hendrerit felis. </p>
                 </div>
               </div>
               <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
                 <div class="square">
                   <img src="img/productos/boto.jpg" class="img-responsive">  
-                  <p class="title-img">Envase grado alimenticio</p>
+                  <p class="title-azul">Envase grado alimenticio</p>
                   <p class="text-product">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut felis tempor, porta ligula sed, hendrerit felis. </p>
                 </div>
               </div>
               <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
                 <div class="square">
                   <img src="img/productos/boto.jpg" class="img-responsive">  
-                  <p class="title-img">Envase grado alimenticio</p>
+                  <p class="title-azul">Envase grado alimenticio</p>
                   <p class="text-product">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut felis tempor, porta ligula sed, hendrerit felis. </p>
                 </div>
               </div>
               <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
                 <div class="square">
                   <img src="img/productos/boto.jpg" class="img-responsive">  
-                  <p class="title-img">Envase grado alimenticio</p>
+                  <p class="title-azul">Envase grado alimenticio</p>
                   <p class="text-product">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut felis tempor, porta ligula sed, hendrerit felis. </p>
                 </div>
               </div>
@@ -144,28 +154,28 @@ $eslogan="PRODUCTOS";
               <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
                 <div class="square">
                   <img src="img/productos/boto.jpg" class="img-responsive">  
-                  <p class="title-img">Envase grado alimenticio</p>
+                  <p class="title-rojo">Envase grado alimenticio</p>
                   <p class="text-product">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut felis tempor, porta ligula sed, hendrerit felis. </p>
                 </div>
               </div>
               <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
                 <div class="square">
                   <img src="img/productos/boto.jpg" class="img-responsive">  
-                  <p class="title-img">Envase grado alimenticio</p>
+                  <p class="title-rojo">Envase grado alimenticio</p>
                   <p class="text-product">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut felis tempor, porta ligula sed, hendrerit felis. </p>
                 </div>
               </div>
               <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
                 <div class="square">
                   <img src="img/productos/boto.jpg" class="img-responsive">  
-                  <p class="title-img">Envase grado alimenticio</p>
+                  <p class="title-rojo">Envase grado alimenticio</p>
                   <p class="text-product">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut felis tempor, porta ligula sed, hendrerit felis. </p>
                 </div>
               </div>
               <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
                 <div class="square">
                   <img src="img/productos/boto.jpg" class="img-responsive">  
-                  <p class="title-img">Envase grado alimenticio</p>
+                  <p class="title-rojo">Envase grado alimenticio</p>
                   <p class="text-product">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut felis tempor, porta ligula sed, hendrerit felis. </p>
                 </div>
               </div>
@@ -177,9 +187,12 @@ $eslogan="PRODUCTOS";
 <?php include "include/footer.php" ?>
 
 </div><!--body-->
-</body>
-</html>
 <script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/material.js"></script>
 <script src="js/ripples.min.js"></script>
+</body>
+</html>
+

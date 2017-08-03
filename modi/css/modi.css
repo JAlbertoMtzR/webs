@@ -308,8 +308,7 @@ body{
   padding: 15px;
   background-color: #FFF;
 }
-.title-img{
-  color: #f97c02;
+.title-azul, .title-orange, .title-gris, .title-rojo{
   text-align: center;
   font-size: 19px;
 }
@@ -327,8 +326,17 @@ body{
   color: #00046b;
   margin-right: 10px;
 }
-.azul{
-  color: #080080 !important;
+.title-orange{
+  color: #f97c02;
+}
+.title-azul{
+  color: #080080;
+}
+.title-gris{
+  color: #616262;
+}
+.title-rojo{
+  color: #c50e0e;
 }
 
 /***********gallery**********/
