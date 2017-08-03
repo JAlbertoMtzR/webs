@@ -24,32 +24,32 @@ $eslogan="PRODUCTOS";
     <!-- Contacto -->
     <div class="container">
         <div class="col-xs-12 col-sm-4 col-md-4 col-lg-offset-1 col-lg-3 ">
-            <ul class="nav nav-stacked nav-product" role="tablist">
-                <li role="presentation" class="title">
-                  <a href="#">NUESTROS PRODUCTOS </a>
-                </li>
-                <li role="presentation" class="orange active">
-                  <a href="#alimenticio" aria-controls="alimenticio" role="tab" data-toggle="tab">ENVASE GRADO ALIMENTICIO <i class="icon-2 fa fa-chevron-right" aria-hidden="true"></i></a>
-                </li>
-                <li role="presentation" class="gray">
-                  <a href="#grises" aria-controls="grises" role="tab" data-toggle="tab">ENVASE VIRGEN TONOS GRISES <i class="icon fa fa-chevron-right" aria-hidden="true"></i></a>
-                </li>
-                <li role="presentation" class="blue">
-                  <a href="#azules" aria-controls="azules" role="tab" data-toggle="tab">ENVASE VIRGEN TONOS AZULES <i class="icon fa fa-chevron-right" aria-hidden="true"></i></a>
-                </li>
-                <li role="presentation" class="red">
-                  <a href="#resistencia" aria-controls="resistencia" role="tab" data-toggle="tab">ENVASE SEGUNDA ALTA RESISTENCIA <i class="icon-3 fa fa-chevron-right" aria-hidden="true"></i></a>
-                </li>
-            </ul>
-
-            <div class="contact-product">
-                <p class="contact-p">CONTACTO </p>
-                <p class="text-center">Teléfono </p>
-                <p class="telefono text-center"><i class="fa fa-phone icon-contact" aria-hidden="true"></i> 228-254-57-59 </p>
-                <p class="email text-center"> E-mail: </p>
-                <p class="text-center telefono"><i class="fa fa-envelope icon-contact" aria-hidden="true"></i> info@modienvases.mx </p>
-            </div>
+          <ul class="nav nav-stacked nav-product" role="tablist">
+            <li role="presentation" class="title">
+              <a href="#">NUESTROS PRODUCTOS </a>
+            </li>
+            <li role="presentation" class="orange active">
+              <a href="#alimenticio" aria-controls="alimenticio" role="tab" data-toggle="tab">ENVASE GRADO ALIMENTICIO <i class="icon-2 fa fa-chevron-right" aria-hidden="true"></i></a>
+            </li>
+            <li role="presentation" class="gray">
+              <a href="#grises" aria-controls="grises" role="tab" data-toggle="tab">ENVASE VIRGEN TONOS GRISES <i class="icon fa fa-chevron-right" aria-hidden="true"></i></a>
+            </li>
+            <li role="presentation" class="blue">
+              <a href="#azules" aria-controls="azules" role="tab" data-toggle="tab">ENVASE VIRGEN TONOS AZULES <i class="icon fa fa-chevron-right" aria-hidden="true"></i></a>
+            </li>
+            <li role="presentation" class="red">
+              <a href="#resistencia" aria-controls="resistencia" role="tab" data-toggle="tab">ENVASE SEGUNDA ALTA RESISTENCIA <i class="icon-3 fa fa-chevron-right" aria-hidden="true"></i></a>
+            </li>
+          </ul>
+          <div class="contact-product hidden-xs">
+            <p class="contact-p">CONTACTO </p>
+            <p class="text-center">Teléfono </p>
+            <p class="telefono text-center"><i class="fa fa-phone icon-contact" aria-hidden="true"></i> 228-254-57-59 </p>
+            <p class="email text-center"> E-mail: </p>
+            <p class="text-center telefono"><i class="fa fa-envelope icon-contact" aria-hidden="true"></i> info@modienvases.mx </p>
+          </div>
         </div>
+
         <div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
           <div class="tab-content">
             <div role="tabpanel" class="tab-pane active" id="alimenticio">
@@ -149,7 +149,6 @@ $eslogan="PRODUCTOS";
             </div>
 
 
-
             <div role="tabpanel" class="tab-pane" id="resistencia">
               <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
                 <div class="square">
@@ -180,6 +179,16 @@ $eslogan="PRODUCTOS";
                 </div>
               </div>
             </div>
+          </div>
+        </div>      
+
+        <div class="col-xs-12 visible-xs ">
+          <div class="contact-product">
+            <p class="contact-p">CONTACTO </p>
+            <p class="text-center">Teléfono </p>
+            <p class="telefono text-center"><i class="fa fa-phone icon-contact" aria-hidden="true"></i> 228-254-57-59 </p>
+            <p class="email text-center"> E-mail: </p>
+            <p class="text-center telefono"><i class="fa fa-envelope icon-contact" aria-hidden="true"></i> info@modienvases.mx </p>
           </div>
         </div>
     </div>
